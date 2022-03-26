@@ -1,0 +1,15 @@
+portbase 11000
+hostname localhost
+login_hostname localhost
+bootmods DevSys Theatre Jonkichi Tool Generic SMTP Gables
+textport 443
+real_textport 11443
+webport 11080
+real_webport 11080
+url_protocol http
+access gables
+memory_high 128
+memory_max 256
+statedump_offset 600
+freemote +emote
+login_hostname localhost
